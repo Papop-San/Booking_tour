@@ -1,8 +1,9 @@
 import React from 'react'
-import '../components/Navbar'
+import {Route , Routes} from 'react-router-doms'
+// Components
 import Navbar from '../components/Navbar'
-
-
+import IndexPage from './index'
+import LoginPage from './loginpage'
 
 
 function index() {
@@ -11,7 +12,7 @@ function index() {
     <div>
         <Navbar/>
         <body>
-            
+    
         </body>
     </div>
   )
