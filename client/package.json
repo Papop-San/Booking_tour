@@ -12,13 +12,14 @@
   "dependencies": {
     "-": "^0.0.1",
     "autoprefixer": "^10.4.17",
+    "axios": "^1.6.7",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.3",
     "postcss": "^8.4.33",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.21.3",
-    "sort-by": "^1.2.0",
+    "sort-by": "^0.0.2",
     "tailwindcss": "^3.4.1"
   },
   "devDependencies": {
